@@ -6,3 +6,6 @@ console.log('new features');
 console.log('ajalas esta bien perro');
 console.log('soy la mera pistola');
 console.log('ya acabe');
+console.log('vamos a agregar mas cositas');
+console.log('taggeando emn develop');
+console.log('para ver que pasa');
