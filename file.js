@@ -9,3 +9,5 @@ console.log('ya acabe');
 console.log('vamos a agregar mas cositas');
 console.log('taggeando emn develop');
 console.log('para ver que pasa');
+console.log('wa a hacer una tag simple y ligera');
+console.log('pa ver como se ve');
